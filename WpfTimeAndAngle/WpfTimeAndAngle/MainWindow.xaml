@@ -1,0 +1,46 @@
+﻿<Window x:Class="WpfTimeAndAngle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfTimeAndAngle.ViewModels"
+        mc:Ignorable="d"        
+        Title="Time and angle [Wpf]" Height="200" Width="450">
+    <Window.DataContext>
+        <local:MainWindowViewModel/>
+    </Window.DataContext>
+    <Window.Resources>        
+        <Style TargetType="TextBlock" x:Key="TitleText">
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="HorizontalAlignment" Value="Left" />
+        </Style>
+        <Style TargetType="Label" x:Key="ResourceLabel">
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="HorizontalAlignment" Value="Left" />
+        </Style>
+        <Style TargetType="TextBox" x:Key="TextBox">            
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontSize" Value="12"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Style="{StaticResource TitleText}" Margin="0,0,0,10" TextAlignment="Center" FontWeight="Bold">
+            Program do obliczania kątu zawartego pomiędzy <LineBreak /> wskazówką minutową, a godzinową
+        </TextBlock>
+        <Label Grid.Row="1" Grid.Column="0" Content="Wpisz czas, np. 14:30" Style="{StaticResource ResourceLabel}" />
+        <TextBox Grid.Row="1" Grid.Column="1" TextBox.MaxLength="5" Width="70" Text="{Binding Path=UserInputText, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBox}" Name="UserInputText"/>
+        <Label Grid.Row="2" Grid.Column="0" Content="Kat[°]:" Width="70" Style="{StaticResource ResourceLabel}" />
+        <Label Grid.Row="2" Grid.Column="1" Content="{Binding Angle, Mode=TwoWay}" Style="{StaticResource ResourceLabel}" />             
+    </Grid>
+</Window>

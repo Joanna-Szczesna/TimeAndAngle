@@ -1,0 +1,6 @@
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\bin\Release\WpfTimeAndAngle.exe.config
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Release\MainWindow.g.cs
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Release\App.g.cs
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Release\WpfTimeAndAngle_MarkupCompile.cache
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Release\WpfTimeAndAngle_MarkupCompile.lref

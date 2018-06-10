@@ -1,0 +1,14 @@
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Debug\MainWindow.g.cs
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Debug\App.g.cs
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Debug\WpfTimeAndAngle_MarkupCompile.cache
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Debug\WpfTimeAndAngle_MarkupCompile.lref
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\bin\Debug\WpfTimeAndAngle.exe.config
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\bin\Debug\WpfTimeAndAngle.exe
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\bin\Debug\WpfTimeAndAngle.pdb
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Debug\MainWindow.baml
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Debug\WpfTimeAndAngle.g.resources
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Debug\WpfTimeAndAngle.Properties.Resources.resources
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Debug\WpfTimeAndAngle.csproj.GenerateResource.Cache
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Debug\WpfTimeAndAngle.exe
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Debug\WpfTimeAndAngle.pdb
+C:\Users\Isza\Documents\Visual Studio 2015\Projects\WpfTimeAndAngle\WpfTimeAndAngle\obj\Debug\GeneratedInternalTypeHelper.g.cs
