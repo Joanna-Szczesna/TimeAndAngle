@@ -1,0 +1,12 @@
+c:\users\isza\documents\visual studio 2015\Projects\WindowsFormsTimeAndAngle\WindowsFormsTimeAndAngle\bin\Debug\WindowsFormsTimeAndAngle.exe.config
+c:\users\isza\documents\visual studio 2015\Projects\WindowsFormsTimeAndAngle\WindowsFormsTimeAndAngle\bin\Debug\WindowsFormsTimeAndAngle.exe
+c:\users\isza\documents\visual studio 2015\Projects\WindowsFormsTimeAndAngle\WindowsFormsTimeAndAngle\bin\Debug\WindowsFormsTimeAndAngle.pdb
+c:\users\isza\documents\visual studio 2015\Projects\WindowsFormsTimeAndAngle\WindowsFormsTimeAndAngle\obj\Debug\WindowsFormsTimeAndAngle.csprojResolveAssemblyReference.cache
+c:\users\isza\documents\visual studio 2015\Projects\WindowsFormsTimeAndAngle\WindowsFormsTimeAndAngle\obj\Debug\WindowsFormsTimeAndAngle.Form1.resources
+c:\users\isza\documents\visual studio 2015\Projects\WindowsFormsTimeAndAngle\WindowsFormsTimeAndAngle\obj\Debug\WindowsFormsTimeAndAngle.Properties.Resources.resources
+c:\users\isza\documents\visual studio 2015\Projects\WindowsFormsTimeAndAngle\WindowsFormsTimeAndAngle\obj\Debug\WindowsFormsTimeAndAngle.csproj.GenerateResource.Cache
+c:\users\isza\documents\visual studio 2015\Projects\WindowsFormsTimeAndAngle\WindowsFormsTimeAndAngle\obj\Debug\WindowsFormsTimeAndAngle.exe
+c:\users\isza\documents\visual studio 2015\Projects\WindowsFormsTimeAndAngle\WindowsFormsTimeAndAngle\obj\Debug\WindowsFormsTimeAndAngle.pdb
+D:\repository\TimeAndAngle\WindowsFormsTimeAndAngle\WindowsFormsTimeAndAngle\bin\Debug\WindowsFormsTimeAndAngle.exe.config
+D:\repository\TimeAndAngle\WindowsFormsTimeAndAngle\WindowsFormsTimeAndAngle\obj\Debug\WindowsFormsTimeAndAngle.exe
+D:\repository\TimeAndAngle\WindowsFormsTimeAndAngle\WindowsFormsTimeAndAngle\obj\Debug\WindowsFormsTimeAndAngle.pdb
